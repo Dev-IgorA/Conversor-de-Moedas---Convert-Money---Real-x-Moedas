@@ -19,4 +19,8 @@ Este projeto foi desenvolvido como prática para consolidar conhecimentos em HTM
 - JAVASCRIPT
 
 ## 📸 Capturas de Tela
-<img src"
+<img src="https://github.com/Dev-IgorA/Conversor-de-Moedas---Convert-Money---Real-x-Moedas/blob/main/Assets/Img-Site1.png?raw=true">
+<br>
+<img src="https://github.com/Dev-IgorA/Conversor-de-Moedas---Convert-Money---Real-x-Moedas/blob/main/Assets/Img-Site2.png?raw=true>
+<br>
+
